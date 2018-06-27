@@ -3,7 +3,7 @@
 ---
 
 
-
+## Link to help you get started https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 ### Headers start with "###"
 Thank you for your thoughts and contributions as we co-create ...
