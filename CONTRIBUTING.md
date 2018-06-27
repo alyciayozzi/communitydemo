@@ -1,14 +1,14 @@
-*This is where you put the "rules" *
+*This is where you put the "rules"*
 
 ---
 
 
 
 
-### Headers start with ###
+### Headers start with "###"
 Thank you for your thoughts and contributions as we co-create ...
 
-**You can create a template ** **
+**You can create a template by adding ">**Title" **
 
 > **Suggested Title**
 > 
